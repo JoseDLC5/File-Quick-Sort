@@ -7,8 +7,8 @@ The output is printed out to the terminal
 
 ./sort [-i|-d] filename
 
--i: Specifies the file contains ints.  
--d: Specifies the file contains doubles.  
+-i: Sorts file as integers in increasing order.  
+-d: Sorts file as doubles in increasing order.  
 filename: The file to sort.  
 No flags defaults to sorting strings.  
 
